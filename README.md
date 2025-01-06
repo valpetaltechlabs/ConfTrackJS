@@ -2,6 +2,13 @@
 
 The application will be available at `http://localhost:5173`
 
+## 🤝 Newsletter
+Stay updated with the latest conference tracks and developer news!
+
+[Subscribe to CodeTalks Newsletter](https://codetalks.substack.com)
+
+<iframe src="https://codetalks.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
@@ -29,16 +36,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Share it with your developer community
 - Report bugs or suggest features through issues
 - Contribute to the codebase
-
+- Subscribe to our [CodeTalks Newsletter](https://codetalks.substack.com)
 
 ## 📧 Contact
 
 For questions or suggestions, please open an issue or reach out to valpetaltechlabs@gmail.com.
 
----
-- Subscribe to our [CodeTalks Newsletter](https://codetalks.substack.com)
-
-Made with ❤️ for the developer community by Valpetal Tech Labs
-
 ## Live Demo
 🚀 [View Live Demo](https://valpetaltechlabs.github.io/conftrackjs)
+
+---
+
+Made with ❤️ for the developer community by Valpetal Tech Labs
