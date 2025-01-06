@@ -36,6 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, please open an issue or reach out to valpetaltechlabs@gmail.com.
 
 ---
+- Subscribe to our [CodeTalks Newsletter](https://codetalks.substack.com)
 
 Made with ❤️ for the developer community by Valpetal Tech Labs
 

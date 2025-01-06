@@ -6,7 +6,7 @@ function App() {
     <BrowserRouter>
       <div className="app">
         <header className="header">
-          <h1>Conference Track Manager</h1>
+          <h1>Conf Track</h1>
         </header>
 
         <main className="calendar-container">
