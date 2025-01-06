@@ -4,14 +4,20 @@ import { events } from '../data/events'
 
 function Calendar() {
   return (
-    <div className="calendar-container">
-      <FullCalendar
-        plugins={[dayGridPlugin]}
-        initialView="dayGridMonth"
-        height="80vh"
-        events={events}
-      />
-    </div>
+    <FullCalendar
+      plugins={[dayGridPlugin]}
+      initialView="dayGridMonth"
+      height="auto"
+      events={events}
+      headerToolbar={{
+        left: 'prev,next today',
+        center: 'title',
+        right: 'dayGridMonth'
+      }}
+      buttonText={{
+        today: 'Today'
+      }}
+    />
   )
 }
 
