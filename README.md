@@ -31,19 +31,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Report bugs or suggest features through issues
 - Contribute to the codebase
 
-## 🔮 Roadmap
-
-- [ ] Conference submission form
-- [ ] Conference filtering by technology/topic
-- [ ] User accounts and personal conference tracking
-- [ ] Conference reminders and notifications
-- [ ] API for conference data
-- [ ] Advanced search and filtering options
-- [ ] Conference analytics and trends
 
 ## 📧 Contact
 
-For questions or suggestions, please open an issue or reach out to the maintainers.
+For questions or suggestions, please open an issue or reach out to valpetaltechlabs@gmail.com.
 
 ---
 
