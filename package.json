@@ -1,6 +1,5 @@
 {
   "name": "conftrackjs",
-  "private": true,
   "version": "0.1.3",
   "type": "module",
   "homepage": "https://$VITE_GITHUB_USERNAME.github.io/$VITE_REPO_NAME",
@@ -16,6 +15,7 @@
     "node": ">=20.11.1",
     "npm": ">=10.2.4"
   },
+  "packageManager": "npm@10.2.4",
   "dependencies": {
     "@fullcalendar/core": "^6.1.11",
     "@fullcalendar/daygrid": "^6.1.11",
