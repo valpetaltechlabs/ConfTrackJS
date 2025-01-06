@@ -1,0 +1,7 @@
+{
+  "homepage": "https://$VITE_GITHUB_USERNAME.github.io/$VITE_REPO_NAME",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
