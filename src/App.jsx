@@ -1,9 +1,9 @@
-import { BrowserRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import Calendar from './components/Calendar'
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="app">
         <header className="header">
           <h1>Conf Track</h1>
@@ -17,7 +17,7 @@ function App() {
           Made with ❤️ by <a href="https://github.com/valpetal" target="_blank" rel="noopener noreferrer">ValPetal Tech Labs</a>
         </footer>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
